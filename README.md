@@ -123,6 +123,6 @@ I'll keep pushing myself to becoming better at programming. I really love progra
 
 ## Author
 
-- Website - [Abdullah Ayoola](https://github.com/abdullah43577)
-- Frontend Mentor - [@abdullah43577](https://www.frontendmentor.io/profile/abdullah43577)
-- Twitter - [@officialayo540](https://twitter.com/officialayo540)
+- Website - [Priyanshu Sharma](https://github.com/abdullah43577)
+- Mail - [priyanshusharma42v@gmail.com](https://www.priyanshusharma42v@gmail.com)
+- Twitter - [x.com/Priyanshu42v](https://x.com/Priyanshu42v)
