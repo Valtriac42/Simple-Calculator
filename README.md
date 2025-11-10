@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/calculator-app-OJN1qifO_R)
-- Live Site URL: [Live site URL here](https://simplecalc-app.netlify.app/)
+- Live Site URL: [Live site URL here](https://simple-calculator42.netlify.app/)
 
 ## My process
 
